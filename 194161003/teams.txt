@@ -1,0 +1,21 @@
+
+
+Afghanistan: Gulbadin Naib (c), Mohammad Shahzad (wk), Noor Ali Zadran, Hazratullah Zazai, Rahmat Shah, Asghar Afghan, Hashmatullah Shahidi, Najibullah Zadran, Samiullah Shinwari, Mohammad Nabi, Rashid Khan, Dawlat Zadran, Aftab Alam, Hamid Hassan, Mujeeb Ur Rahman
+
+Australia: Aaron Finch (c), David Warner, Usman Khawaja, Steve Smith, Shaun Marsh, Alex Carey, Marcus Stoinis, Glenn Maxwell, Mitchell Starc, Pat Cummins, Jason Behrendorff, Nathan Coulter-Nile, Adam Zampa, Nathan Lyon, Kane Richardson
+
+Bangladesh: Mashrafe Mortaza (c), Tamim Iqbal, Liton Das, Soumya Sarkar, Mushfiqur Rahim (wk), Mahmudullah, Shakib Al Hasan (vc), Mohammad Mithun, Sabbir Rahaman, Mosaddek Hossain, Mohammad Saifuddin, Mehidy Hasan Miraz, Rubel Hossain, Mustafizur Rahman, Abu Jayed
+
+England: Eoin Morgan (c), Moeen Ali, Jonny Bairstow, Jos Buttler, Tom Curran, Liam Plunkett, Adil Rashid, Joe Root, Jason Roy, Ben Stokes, Chris Woakes, Mark Wood, Jofra Archer, James Vince, Liam Dawson
+
+India: Virat Kohli (c), Rohit Sharma, Shikhar Dhawan, KL Rahul, Vijay Shankar, MS Dhoni (wk), Kedar Jadhav, Dinesh Karthik (wk), Yuzvendra Chahal, Kuldeep Yadav, Bhuvneshwar Kumar, Jasprit Bumrah, Hardik Pandya, Ravindra Jadeja, Mohammed Shami
+
+New Zealand: Kane Williamson (c), Ross Taylor, Tom Latham (wk), Tom Blundell (wk), Mitchell Santner, Colin de Grandhomme, Lockie Ferguson, Tim Southee, Trent Boult, Colin Munro, Ish Sodhi, Henry Nicholls, Martin Guptill, Matt Henry, Jimmy Neesham
+
+Pakistan: Sarfraz Ahmed (c/wk), Fakhar Zaman, Imam-ul-Haq, Babar Azam, Shoaib Malik, Mohammad Hafeez, Asif Ali, Shadab Khan, Imad Wasim, Haris Sohail, Hasan Ali, Shaheen Afridi, Mohammad Amir, Wahab Riaz, Mohammad Hasnain
+
+South Africa: Faf du Plessis (c), Aiden Markram, Quinton de Kock (wk), Hashim Amla, Rassie van der Dussen, David Miller, Andile Phehlukwayo, JP Duminy, Dwaine Pretorius, Dale Steyn, Kagiso Rabada, Lungi Ngidi, Imran Tahir, Tabraiz Shamsi, Chris Morris
+
+Sri Lanka: Dimuth Karunaratne (c), Avishka Fernando, Lahiru Thirimanne, Kusal Perera, Kusal Mendis, Angelo Mathews, Dhananjaya de Silva, Jeffery Vandersay, Thisara Perera, Isuru Udana, Lasith Malinga, Suranga Lakmal, Nuwan Pradeep, Jeevan Mendis, Milinda Siriwardana
+
+West Indies: Jason Holder (c), Chris Gayle, Andre Russell, Sheldon Cottrell, Shannon Gabriel, Kemar Roach, Nicholas Pooran (wk), Ashley Nurse, Fabian Allen, Shimron Hetmyer, Shai Hope (wk), Oshane Thomas, Carlos Brathwaite, Darren Bravo, Evin Lewis.
