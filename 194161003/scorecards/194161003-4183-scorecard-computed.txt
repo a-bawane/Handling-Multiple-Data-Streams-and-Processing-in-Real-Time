@@ -1,0 +1,48 @@
+England Innings (50.0 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Jason Roy                             c Santner b Neesham                   64     61     81     9      0      104.92 
+Jonny Bairstow                        b Henry                               106    99     147    15     1      107.07 
+Joe Root                              c (wk)Latham b Boult                  24     25     54     1      0      96.0   
+Jos Buttler                           c Williamson b Boult                  11     12     25     1      0      91.67  
+Eoin Morgan                           c Santner b Henry                     42     40     64     5      0      105.0  
+Ben Stokes                            c Henry b Santner                     11     27     33     0      0      40.74  
+Chris Woakes                          c Williamson b Neesham                4      11     12     0      0      36.36  
+Liam Plunkett                         not out                               15     12     0      1      0      125.0  
+Adil Rashid                           b Southee                             16     12     17     1      0      133.33 
+Jofra Archer                          not out                               1      1      0      0      0      100.0  
+Extras                                                                       15 (b 4, lb 4, w 7)
+TOTAL                                                                        305/8 (50.0 Overs, RR: 6.1)
+Did not bat: Mark Wood
+Fall of wickets: 1-123 (Jason Roy, 18.4 ov), 2-194 (Joe Root, 30.1 ov), 3-206 (Jonny Bairstow, 31.4 ov), 4-214 (Jos Buttler, 34.2 ov), 5-248 (Ben Stokes, 42.0 ov), 6-259 (Chris Woakes, 44.5 ov), 7-272 (Eoin Morgan, 46.1 ov), 8-301 (Adil Rashid, 49.3 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Mitchell Santner                      10.0   0         65        1         6.5       24        7         0         2         0         
+Trent Boult                           10.0   0         56        2         5.6       30        6         0         1         0         
+Tim Southee                           9.0    0         70        1         7.78      23        10        1         0         0         
+Henry Nicholls                        10.0   0         54        2         5.4       30        5         0         2         0         
+Colin de Grandhomme                   1.0    0         11        0         11.0      1         2         0         0         0         
+James Neesham                         10.0   1         41        2         4.1       31        2         0         2         0         
+
+New Zealand Innings(44.5)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Martin Guptill                        c (wk)Buttler b Archer                8      16     25     1      0      50.0   
+Henry Nicholls                        b Wood                                7      15     17     0      0      46.67  
+Kane Williamson                       not out                               27     40     0      3      0      67.5   
+Ross Taylor                           not out                               28     41     0      2      0      68.29  
+Tom Latham                            c (wk)Buttler b Plunkett              57     65     106    5      0      87.69  
+James Neesham                         b Wood                                19     27     31     1      0      70.37  
+Colin de Grandhomme                   c Root b Stokes                       3      13     15     0      0      23.08  
+Mitchell Santner                      lbw b Wood                            12     30     58     1      0      40.0   
+Tim Southee                           not out                               7      16     0      0      0      43.75  
+Matt Henry                            b Wood                                0      1      17     0      0      0.0    
+Trent Boult                           st (wk)Buttler b Rashid               4      7      7      1      0      57.14  
+Extras                                                                       14 (b 2, lb 6, w 6)
+TOTAL                                                                        186/8 (44.5 Overs, RR: 4.15)
+Fall of wickets: 1-2 (Henry Nicholls, 0.6 ov), 2-14 (Martin Guptill, 5.2 ov), 3-123 (James Neesham, 25.0 ov), 4-128 (Colin de Grandhomme, 28.0 ov), 5-164 (Tom Latham, 38.2 ov), 6-166 (Mitchell Santner, 39.1 ov), 7-181 (Henry Nicholls, 43.3 ov), 8-186 (Trent Boult, 44.5 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Chris Woakes                          8.0    0         44        1         5.5       29        6         0         1         0         
+Jofra Archer                          7.0    2         17        1         2.43      31        1         0         1         0         
+Liam Plunkett                         8.0    0         28        1         3.5       26        1         0         1         0         
+Mark Wood                             9.0    0         34        4         3.78      35        2         0         2         0         
+Joe Root                              3.0    0         15        0         5.0       7         1         0         0         0         
+Adil Rashid                           5.0    0         30        1         6.0       12        3         0         0         0         
+Ben Stokes                            5.0    0         10        1         2.0       21        0         0         1         0         

@@ -1,0 +1,43 @@
+Sri Lanka Innings (50.0 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Dimuth Karunaratne (capt)             c †Buttler b Archer                   1      8      9      0      0      12.5   
+Avishka Fernando                      c Rashid b Wood                       49     38     50     6      2      128.95 
+Angelo Mathews                        not out                               85     115    0      5      1      73.91  
+Dhananjaya de Silva                   c Root b Archer                       29     47     48     1      0      61.7   
+Isuru Udana                           c Root b Wood                         7      5      7      1      0      140.0  
+Lasith Malinga                        b Wood                                1      5      9      0      0      20.0   
+Nuwan Pradeep                         not out                               1      1      0      0      0      100.0  
+Extras                                                                       10 (lb 4, w 6)
+TOTAL                                                                        232/5 (50.0 Overs, RR: 4.64)
+Did not bat: Kusal Perera (wk), Kusal Mendis, Jeevan Mendis, Thisara Perera
+Fall of wickets: 1-3 (Dimuth Karunaratne (capt), 2.0 ov), 2-62 (Avishka Fernando, 12.5 ov), 3-190 (Dhananjaya de Silva, 43.3 ov), 4-209 (Isuru Udana, 46.4 ov), 5-220 (Lasith Malinga, 48.3 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Chris Woakes                          5.0    0         22        1         4.4       17        2         0         0         0         
+Jofra Archer                          10.0   2         52        3         5.2       38        4         3         2         0         
+Mark Wood                             8.0    0         40        3         5.0       23        3         0         1         0         
+Ben Stokes                            5.0    0         16        0         3.2       20        2         0         0         0         
+Moeen Ali                             10.0   0         40        0         4.0       28        0         0         3         0         
+Adil Rashid                           10.0   0         45        2         4.5       27        3         0         0         0         
+Joe Root                              2.0    0         13        0         6.5       3         1         0         0         0         
+
+England Innings(47.0)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+James Vince                           c BKG Mendis b Malinga                14     18     33     2      0      77.78  
+Jonny Bairstow                        lbw b Malinga                         0      2      3      0      0      0.0    
+Joe Root                              c †MDKJ Perera b Malinga              57     89     126    3      0      64.04  
+Eoin Morgan (capt)                    c & b Udana                           21     35     51     2      0      60.0   
+Ben Stokes                            not out                               82     89     0      7      4      92.13  
+Jos Buttler (wk)                      lbw b Malinga                         10     9      16     1      0      111.11 
+Moeen Ali                             c Udana b de Silva                    16     20     25     0      1      80.0   
+Chris Woakes                          c †MDKJ Perera b de Silva             2      4      8      0      0      50.0   
+Adil Rashid                           c †MDKJ Perera b de Silva             1      2      3      0      0      50.0   
+Jofra Archer                          c NLTC Perera b Udana                 3      11     18     0      0      27.27  
+Mark Wood                             c †MDKJ Perera b Pradeep              0      4      19     0      0      0.0    
+Extras                                                                       6 (lb 1, w 5)
+TOTAL                                                                        212 all out  (47.0 Overs, RR: 4.51)
+Fall of wickets: 1-1 (Jonny Bairstow, 0.2 ov), 2-26 (James Vince, 6.5 ov), 3-73 (Eoin Morgan (capt), 18.4 ov), 4-127 (Joe Root, 30.3 ov), 5-144 (Jos Buttler (wk), 32.3 ov), 6-170 (Moeen Ali, 38.3 ov), 7-176 (Chris Woakes, 40.1 ov), 8-178 (Adil Rashid, 40.5 ov), 9-186 (Jofra Archer, 43.4 ov), 10-212 (Mark Wood, 47.0 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Lasith Malinga                        10.0   1         43        4         4.3       39        5         0         2         0         
+Nuwan Pradeep                         10.0   1         38        1         3.8       40        5         0         2         0         
+Dhananjaya de Silva                   8.0    0         32        3         4.0       24        0         1         0         0         
+Isuru Udana                           8.0    0         41        2         5.12      28        3         2         1         0         

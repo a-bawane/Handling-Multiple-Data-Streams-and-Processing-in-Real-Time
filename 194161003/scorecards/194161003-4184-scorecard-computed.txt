@@ -1,0 +1,45 @@
+West Indies Innings (49.5 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Chris Gayle                           c Ikram Alikhil(wk) b Dawlat Zadran   7      18     21     1      0      38.89  
+Evin Lewis                            c Mohammad Nabi b Rashid Khan         58     78     98     6      2      74.36  
+Shai Hope(wk)                         c Rashid Khan b Mohammad Nabi         77     92     137    6      2      83.7   
+Shimron Hetmyer                       c sub (Noor Ali Zadran) b Dawlat Zadran39     31     42     3      2      125.81 
+Nicholas Pooran                       not out                               58     43     0      6      1      134.88 
+Jason Holder (c)                      c Dawlat Zadran b Sayed Shirzad       45     33     54     1      4      136.36 
+Carlos Brathwaite                     not out                               14     4      0      2      1      350.0  
+Extras                                                                       13 (lb 4, w 9)
+TOTAL                                                                        311/5 (49.5 Overs, RR: 6.24)
+Did not bat: Fabian Allen, Sheldon Cottrell, Kemar Roach, Oshane Thomas
+Fall of wickets: 1-21 (Chris Gayle, 5.3 ov), 2-109 (Evin Lewis, 24.5 ov), 3-174 (Shimron Hetmyer, 34.5 ov), 4-192 (Shai Hope(wk), 37.4 ov), 5-297 (Jason Holder (c), 49.1 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Mujeeb Ur Rahman                      10.0   0         52        0         5.2       35        6         1         2         0         
+Dawlat Zadran                         9.0    1         73        2         8.11      28        7         4         1         0         
+Sayed Shirzad                         8.0    0         56        2         7.0       18        4         2         0         0         
+Gulbadin Naib (c)                     3.0    0         18        0         6.0       10        1         1         0         0         
+Mohammad Nabi                         10.0   0         56        1         5.6       32        4         3         0         0         
+Rashid Khan                           10.0   0         52        1         5.2       31        4         1         2         0         
+
+Afghanistan Innings(50.0)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Gulbadin Naib (c)                     c Lewis b Roach                       5      6      8      1      0      83.33  
+Rahmat Shah                           c Gayle b Brathwaite                  62     78     112    10     0      79.49  
+Ikram Alikhil(wk)                     lbw b Gayle                           86     93     142    8      0      92.47  
+Najibullah Zadran                     not out                               31     38     0      1      1      81.58  
+Asghar Afghan                         c Holder b Brathwaite                 40     32     47     4      1      125.0  
+Mohammad Nabi                         c Allen b Roach                       3      7      11     0      0      42.86  
+Samiullah Shinwari                    c Hetmyer b Roach                     6      9      18     0      0      66.67  
+Rashid Khan                           c Holder b Brathwaite                 10     17     27     0      1      58.82  
+Dawlat Zadran                         c Cottrell b Brathwaite               1      2      6      0      0      50.0   
+Sayed Shirzad                         c Allen b Thomas                      25     17     20     2      2      147.06 
+Mujeeb Ur Rahman                      not out                               7      5      0      1      0      140.0  
+Extras                                                                       14 (lb 2, w 10, nb 2)
+TOTAL                                                                        288/9 (50.0 Overs, RR: 5.76)
+Fall of wickets: 1-5 (Gulbadin Naib (c), 1.3 ov), 2-138 (Rahmat Shah, 26.2 ov), 3-189 (Ikram Alikhil(wk), 35.3 ov), 4-201 (Mohammad Nabi, 37.4 ov), 5-227 (Samiullah Shinwari, 41.4 ov), 6-244 (Asghar Afghan, 44.2 ov), 7-255 (Dawlat Zadran, 45.0 ov), 8-260 (Rashid Khan, 46.3 ov), 9-288 (Sayed Shirzad, 50.0 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Sheldon Cottrell                      7.0    0         43        0         6.14      21        4         1         3         0         
+Kemar Roach                           10.0   2         37        3         3.7       36        3         0         1         0         
+Oshane Thomas                         7.0    0         43        1         6.14      23        6         1         0         0         
+Jason Holder (c)                      8.0    0         45        0         5.62      26        6         0         2         1         
+Fabian Allen                          3.0    0         26        0         8.67      5         4         0         0         0         
+Carlos Brathwaite                     9.0    0         62        4         6.89      22        3         3         3         1         
+Chris Gayle                           6.0    0         28        1         4.67      16        1         0         1         0         

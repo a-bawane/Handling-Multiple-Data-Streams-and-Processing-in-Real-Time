@@ -1,0 +1,43 @@
+Australia Innings (49.5 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+David Warner                          b de Silva                            26     48     70     2      0      54.17  
+Aaron Finch (c)                       c Karunaratne b Udana                 154    132    176    15     5      116.67 
+Usman Khawaja                         c Udana b de Silva                    10     20     21     1      0      50.0   
+Steve Smith                           b Malinga                             73     59     90     7      1      123.73 
+Glenn Maxwell                         not out                               46     24     0      5      1      191.67 
+Shaun Marsh                           c Siriwardana b Udana                 3      9      19     0      0      33.33  
+Alex Carey (wk)                       not out                               4      3      0      0      0      133.33 
+Pat Cummins                           run out (Udana)                       0      2      4      0      0      0.0    
+Mitchell Starc                        not out                               5      4      0      0      0      125.0  
+Extras                                                                       14 (lb 4, w 9, nb 1)
+TOTAL                                                                        335/6 (49.5 Overs, RR: 6.72)
+Did not bat: Jason Behrendorff, Kane Richardson
+Fall of wickets: 1-80 (David Warner, 16.4 ov), 2-100 (Usman Khawaja, 23.0 ov), 3-274 (Aaron Finch (c), 42.4 ov), 4-279 (Steve Smith, 43.3 ov), 5-311 (Shaun Marsh, 47.0 ov), 6-321 (Pat Cummins, 48.2 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Lasith Malinga                        10.0   1         61        1         6.1       29        5         1         3         1         
+Nuwan Pradeep                         10.0   0         88        0         8.8       26        13        2         1         0         
+Isuru Udana                           10.0   0         57        4         5.7       24        4         0         1         0         
+Dhananjaya de Silva                   8.0    0         40        2         5.0       24        1         2         2         0         
+Milinda Siriwardana                   2.0    0         17        0         8.5       4         1         1         0         0         
+
+Sri Lanka Innings(45.5)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Dimuth Karunaratne (c)                c Maxwell b Richardson                97     108    132    9      0      89.81  
+Lahiru Thirimanne                     c †Carey b Behrendorff                16     26     34     1      0      61.54  
+Kusal Mendis                          c †Carey b Starc                      30     37     68     0      2      81.08  
+Angelo Mathews                        c †Carey b Cummins                    9      11     14     2      0      81.82  
+Milinda Siriwardana                   b Starc                               3      4      5      0      0      75.0   
+Dhananjaya de Silva                   not out                               16     30     0      2      0      53.33  
+Isuru Udana                           c Finch b Richardson                  8      8      8      1      0      100.0  
+Lasith Malinga                        c Khawaja b Richardson                1      5      9      0      0      20.0   
+Nuwan Pradeep                         c †Carey b Cummins                    0      7      21     0      0      0.0    
+Extras                                                                       8 (lb 2, w 6)
+TOTAL                                                                        247/8 (45.5 Overs, RR: 5.39)
+Did not bat: Kusal Perera (wk), Thisara Perera
+Fall of wickets: 1-153 (Lahiru Thirimanne, 23.5 ov), 2-186 (Dimuth Karunaratne (c), 32.1 ov), 3-205 (Angelo Mathews, 35.4 ov), 4-209 (Milinda Siriwardana, 36.2 ov), 5-222 (Kusal Mendis, 38.1 ov), 6-236 (Isuru Udana, 40.0 ov), 7-237 (Lasith Malinga, 41.4 ov), 8-247 (Nuwan Pradeep, 45.5 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Mitchell Starc                        10.0   0         55        4         5.5       34        5         2         1         0         
+Pat Cummins                           7.5    0         38        2         4.85      28        4         0         2         0         
+Jason Behrendorff                     9.0    0         59        1         6.56      22        5         1         0         0         
+Kane Richardson                       9.0    1         47        3         5.22      32        6         0         2         0         
+Glenn Maxwell                         10.0   0         46        0         4.6       26        1         1         1         0         

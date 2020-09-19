@@ -1,0 +1,44 @@
+Bangladesh Innings (50.0 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Tamim Iqbal                           c †de Kock b Phehlukwayo              16     29     40     2      0      55.17  
+Soumya Sarkar                         c †de Kock b Morris                   42     30     58     9      0      140.0  
+Shakib Al Hasan                       b Imran Tahir                         75     84     117    8      1      89.29  
+Mushfiqur Rahim (wk)                  c van der Dussen b Phehlukwayo        78     80     131    8      0      97.5   
+Mohammad Mithun                       b Imran Tahir                         21     21     21     2      1      100.0  
+Mahmudullah                           not out                               46     33     0      3      1      139.39 
+Mosaddek Hossain                      c Phehlukwayo b Morris                26     20     32     4      0      130.0  
+Extras                                                                       21 (lb 9, w 12)
+TOTAL                                                                        330/6 (50.0 Overs, RR: 6.6)
+Did not bat: Mohammad Saifuddin, Mehedi Hasan, Mashrafe Mortaza (c), Mustafizur Rahman
+Fall of wickets: 1-60 (Tamim Iqbal, 8.2 ov), 2-75 (Soumya Sarkar, 11.4 ov), 3-217 (Shakib Al Hasan, 35.1 ov), 4-242 (Mohammad Mithun, 39.4 ov), 5-250 (Mushfiqur Rahim (wk), 42.1 ov), 6-316 (Mosaddek Hossain, 49.0 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Lungi Ngidi                           4.0    0         34        0         8.5       12        7         0         0         0         
+Kagiso Rabada                         10.0   0         57        0         5.7       36        7         1         3         0         
+Andile Phehlukwayo                    10.0   1         52        2         5.2       28        4         0         3         0         
+Chris Morris                          10.0   0         73        2         7.3       23        8         1         2         0         
+Aiden Markram                         5.0    0         38        0         7.6       10        4         1         0         0         
+Imran Tahir                           10.0   0         57        2         5.7       25        6         0         0         0         
+JP Duminy                             1.0    0         10        0         10.0      2         2         0         0         0         
+
+South Africa Innings(50.0)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Quinton de Kock (wk)                  run out (†Mushfiqur Rahim)            23     32     41     4      0      71.88  
+Aiden Markram                         b Shakib Al Hasan                     45     56     78     4      0      80.36  
+Faf du Plessis (c)                    b Mehidy Hasan Miraz                  62     53     64     5      1      116.98 
+David Miller                          c Mehidy Hasan Miraz b Mustafizur Rahman38     43     62     2      0      88.37  
+Rassie van der Dussen                 b Mohammad Saifuddin                  41     38     61     2      1      107.89 
+JP Duminy                             b Mustafizur Rahman                   45     37     62     4      0      121.62 
+Andile Phehlukwayo                    c Shakib Al Hasan b Mohammad Saifuddin8      13     18     1      0      61.54  
+Chris Morris                          c Soumya Sarkar b Mustafizur Rahman   11     10     16     1      0      110.0  
+Kagiso Rabada                         not out                               13     9      0      0      1      144.44 
+Imran Tahir                           not out                               10     10     0      0      0      100.0  
+Extras                                                                       14 (b 4, w 9, nb 1)
+TOTAL                                                                        310/8 (50.0 Overs, RR: 6.2)
+Did not bat: Lungi Ngidi
+Fall of wickets: 1-49 (Quinton de Kock (wk), 9.4 ov), 2-102 (Aiden Markram, 19.4 ov), 3-147 (Faf du Plessis (c), 26.4 ov), 4-202 (David Miller, 35.1 ov), 5-228 (Rassie van der Dussen, 39.1 ov), 6-252 (Andile Phehlukwayo, 42.6 ov), 7-276 (Chris Morris, 45.5 ov), 8-288 (JP Duminy, 47.1 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Mustafizur Rahman                     10.0   0         67        3         6.7       30        6         2         2         0         
+Mohammad Saifuddin                    8.0    1         57        2         7.12      17        7         0         2         1         
+Shakib Al Hasan                       10.0   0         50        1         5.0       21        2         0         0         0         
+Mashrafe Mortaza (c)                  6.0    0         49        0         8.17      6         5         0         0         0         
+Mosaddek Hossain                      6.0    0         38        0         6.33      11        1         1         1         0         

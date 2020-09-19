@@ -1,0 +1,44 @@
+England Innings (50.0 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+James Vince                           c Mujeeb Ur Rahman b Dawlat Zadran    26     31     37     3      0      83.87  
+Jonny Bairstow                        c & b Gulbadin Naib                   90     99     115    8      3      90.91  
+Joe Root                              c Rahmat Shah b Gulbadin Naib         89     83     155    5      1      107.23 
+Eoin Morgan (capt)                    c Rahmat Shah b Gulbadin Naib         149    71     77     4      17     209.86 
+Ben Stokes                            b Dawlat Zadran                       2      6      14     0      0      33.33  
+Jos Buttler (wk)                      c Mohammad Nabi b Dawlat Zadran       2      2      8      0      0      100.0  
+Moeen Ali                             not out                               31     9      0      1      4      344.44 
+Chris Woakes                          not out                               1      1      0      0      0      100.0  
+Extras                                                                       9 (lb 1, w 7, nb 1)
+TOTAL                                                                        398/6 (50.0 Overs, RR: 7.96)
+Did not bat: Adil Rashid, Jofra Archer, Mark Wood
+Fall of wickets: 1-44 (James Vince, 9.3 ov), 2-164 (Jonny Bairstow, 29.5 ov), 3-354 (Joe Root, 46.4 ov), 4-360 (Eoin Morgan (capt), 47.0 ov), 5-363 (Jos Buttler (wk), 47.4 ov), 6-379 (Ben Stokes, 49.1 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Mujeeb Ur Rahman                      10.0   0         44        0         4.4       36        2         1         2         0         
+Dawlat Zadran                         10.0   0         85        3         8.5       25        8         3         4         0         
+Mohammad Nabi                         9.0    0         70        0         7.78      19        4         4         0         0         
+Gulbadin Naib (capt)                  10.0   0         68        3         6.8       29        3         5         0         1         
+Rahmat Shah                           2.0    0         19        0         9.5       3         1         1         0         0         
+Rashid Khan                           9.0    0         110       0         12.22     18        3         11        0         0         
+
+Afghanistan Innings(50.0)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Noor Ali Zadran                       b Archer                              0      7      8      0      0      0.0    
+Gulbadin Naib (capt)                  c †Buttler b Wood                     37     28     52     4      1      132.14 
+Rahmat Shah                           c Bairstow b Rashid                   46     74     98     3      1      62.16  
+Hashmatullah Shahidi                  b Archer                              76     101    145    5      2      75.25  
+Asghar Afghan                         c Root b Rashid                       44     47     68     3      2      93.62  
+Mohammad Nabi                         c Stokes b Rashid                     9      7      8      0      1      128.57 
+Najibullah Zadran                     b Wood                                15     13     21     0      1      115.38 
+Rashid Khan                           c Bairstow b Archer                   8      13     19     1      0      61.54  
+Ikram Alikhil (wk)                    not out                               3      10     0      0      0      30.0   
+Extras                                                                       9 (lb 1, w 8)
+TOTAL                                                                        247/8 (50.0 Overs, RR: 4.94)
+Did not bat: Mujeeb Ur Rahman, Dawlat Zadran
+Fall of wickets: 1-4 (Noor Ali Zadran, 1.2 ov), 2-52 (Gulbadin Naib (capt), 11.5 ov), 3-104 (Rahmat Shah, 24.5 ov), 4-198 (Asghar Afghan, 40.5 ov), 5-210 (Mohammad Nabi, 42.4 ov), 6-234 (Hashmatullah Shahidi, 45.5 ov), 7-234 (Najibullah Zadran, 46.2 ov), 8-247 (Rashid Khan, 49.4 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Chris Woakes                          9.0    0         41        0         4.56      30        3         1         2         0         
+Jofra Archer                          10.0   1         52        3         5.2       38        5         1         2         0         
+Moeen Ali                             7.0    0         35        0         5.0       19        2         1         0         0         
+Mark Wood                             10.0   1         40        2         4.0       37        3         1         1         0         
+Ben Stokes                            4.0    0         12        0         3.0       13        0         0         0         0         
+Adil Rashid                           10.0   0         66        3         6.6       30        3         4         1         0         

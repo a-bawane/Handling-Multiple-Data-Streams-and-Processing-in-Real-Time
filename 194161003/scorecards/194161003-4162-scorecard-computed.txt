@@ -1,0 +1,41 @@
+West Indies Innings (49.5 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Chris Gayle                           c †Mushfiqur Rahim b Mohammad Saifuddin0      13     17     0      0      0.0    
+Evin Lewis                            c sub (Sabbir Rahman) b Shakib Al Hasan70     67     105    6      2      104.48 
+Shai Hope (wk)                        c Liton Das b Mustafizur Rahman       96     120    191    4      1      80.0   
+Nicholas Pooran                       c Soumya Sarkar b Shakib Al Hasan     25     30     29     2      1      83.33  
+Shimron Hetmyer                       c Tamim Iqbal b Mustafizur Rahman     50     26     34     4      3      192.31 
+Andre Russell                         c †Mushfiqur Rahim b Mustafizur Rahman0      2      5      0      0      0.0    
+Jason Holder (c)                      c Mahmudullah b Mohammad Saifuddin    33     15     18     4      2      220.0  
+Darren Bravo                          b Mohammad Saifuddin                  19     15     36     0      2      126.67 
+Oshane Thomas                         not out                               6      11     0      0      0      54.55  
+Extras                                                                       22 (lb 6, w 16)
+TOTAL                                                                        321/8 (49.5 Overs, RR: 6.44)
+Did not bat: Sheldon Cottrell, Shannon Gabriel
+Fall of wickets: 1-6 (Chris Gayle, 3.2 ov), 2-122 (Evin Lewis, 24.3 ov), 3-159 (Nicholas Pooran, 32.1 ov), 4-242 (Shimron Hetmyer, 39.2 ov), 5-243 (Andre Russell, 39.5 ov), 6-282 (Jason Holder (c), 43.4 ov), 7-297 (Shai Hope (wk), 46.5 ov), 8-321 (Darren Bravo, 49.5 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Mashrafe Mortaza (c)                  8.0    1         37        0         4.62      30        3         2         0         0         
+Mohammad Saifuddin                    10.0   1         72        3         7.2       31        4         4         6         0         
+Mustafizur Rahman                     9.0    0         59        3         6.56      25        5         1         5         0         
+Mehidy Hasan Miraz                    9.0    0         57        0         6.33      17        3         1         1         0         
+Mosaddek Hossain                      5.5    0         36        0         6.17      13        2         1         0         0         
+Shakib Al Hasan                       8.0    0         54        2         6.75      20        4         2         0         0         
+
+Bangladesh Innings(41.3)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Tamim Iqbal                           run out (Cottrell)                    48     53     87     6      0      90.57  
+Soumya Sarkar                         c Gayle b Russell                     29     23     38     2      2      126.09 
+Shakib Al Hasan                       not out                               124    99     0      16     0      125.25 
+Mushfiqur Rahim (wk)                  c †Hope b Thomas                      1      5      11     0      0      20.0   
+Liton Das                             not out                               94     69     0      8      4      136.23 
+Extras                                                                       26 (b 1, w 25)
+TOTAL                                                                        322/3 (41.3 Overs, RR: 7.76)
+Did not bat: Mahmudullah, Mosaddek Hossain, Mehidy Hasan Miraz, Mohammad Saifuddin, Mashrafe Mortaza (c), Mustafizur Rahman
+Fall of wickets: 1-52 (Soumya Sarkar, 8.2 ov), 2-121 (Tamim Iqbal, 17.3 ov), 3-133 (Mushfiqur Rahim (wk), 19.0 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Sheldon Cottrell                      10.0   0         65        1         6.5       30        6         2         3         0         
+Jason Holder (c)                      9.0    0         62        0         6.89      20        8         0         1         0         
+Andre Russell                         6.0    0         42        1         7.0       16        4         1         1         0         
+Shannon Gabriel                       8.3    0         78        0         9.18      15        7         3         2         0         
+Oshane Thomas                         6.0    0         52        1         8.67      14        7         0         5         0         
+Chris Gayle                           2.0    0         22        0         11.0      2         3         0         1         0         

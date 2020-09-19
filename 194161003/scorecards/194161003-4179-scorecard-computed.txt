@@ -1,0 +1,41 @@
+England Innings (50.0 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Jason Roy                             c sub (RA Jadeja) b Kuldeep Yadav     67     58     101    7      2      115.52 
+Jonny Bairstow                        c Pant b Mohammed Shami               111    109    138    10     6      101.83 
+Joe Root                              c Pandya b Mohammed Shami             44     54     96     2      0      81.48  
+Eoin Morgan (c)                       c Jadhav b Mohammed Shami             1      9      10     0      0      11.11  
+Ben Stokes                            c sub (RA Jadeja) b Bumrah            79     54     80     6      3      146.3  
+Jos Buttler (wk)                      c & b Mohammed Shami                  20     8      17     1      2      250.0  
+Chris Woakes                          c Sharma b Mohammed Shami             7      5      8      1      0      140.0  
+Liam Plunkett                         not out                               1      4      0      0      0      25.0   
+Extras                                                                       8 (b 2, lb 2, w 4)
+TOTAL                                                                        337/7 (50.0 Overs, RR: 6.74)
+Did not bat: Adil Rashid, Jofra Archer, Mark Wood
+Fall of wickets: 1-160 (Jason Roy, 22.1 ov), 2-205 (Jonny Bairstow, 31.4 ov), 3-207 (Eoin Morgan (c), 33.4 ov), 4-277 (Joe Root, 44.1 ov), 5-310 (Jos Buttler (wk), 47.0 ov), 6-319 (Chris Woakes, 48.1 ov), 7-336 (Ben Stokes, 49.4 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Mohammed Shami                        10.0   1         69        5         6.9       37        8         3         1         0         
+Jasprit Bumrah                        10.0   1         44        1         4.4       30        3         0         0         0         
+Yuzvendra Chahal                      10.0   0         88        0         8.8       28        7         6         2         0         
+Hardik Pandya                         10.0   0         60        0         6.0       22        4         1         1         0         
+Kuldeep Yadav                         10.0   0         72        1         7.2       25        5         3         0         0         
+
+India Innings(50.0)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+KL Rahul                              c & b Woakes                          0      9      10     0      0      0.0    
+Rohit Sharma                          c †Buttler b Woakes                   102    109    152    15     0      93.58  
+Virat Kohli (c)                       c sub (JM Vince) b Plunkett           66     76     103    7      0      86.84  
+Rishabh Pant                          c Woakes b Plunkett                   32     29     58     4      0      110.34 
+Hardik Pandya                         c sub (JM Vince) b Plunkett           45     33     49     4      0      136.36 
+MS Dhoni (wk)                         not out                               42     31     0      4      1      135.48 
+Kedar Jadhav                          not out                               12     13     0      1      0      92.31  
+Extras                                                                       7 (lb 1, w 6)
+TOTAL                                                                        306/5 (50.0 Overs, RR: 6.12)
+Did not bat: Kuldeep Yadav, Mohammed Shami, Yuzvendra Chahal, Jasprit Bumrah
+Fall of wickets: 1-8 (KL Rahul, 2.3 ov), 2-146 (Virat Kohli (c), 28.2 ov), 3-198 (Rohit Sharma, 36.1 ov), 4-226 (Rishabh Pant, 39.1 ov), 5-267 (Hardik Pandya, 44.6 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Chris Woakes                          10.0   3         58        2         5.8       35        7         1         0         0         
+Jofra Archer                          10.0   0         45        0         4.5       33        5         0         0         0         
+Liam Plunkett                         10.0   0         55        3         5.5       27        4         0         4         0         
+Mark Wood                             10.0   0         73        0         7.3       19        9         0         1         0         
+Adil Rashid                           6.0    0         40        0         6.67      12        5         0         1         0         
+Ben Stokes                            4.0    0         34        0         8.5       7         5         0         0         0         

@@ -1,0 +1,38 @@
+Pakistan Innings (21.4 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Imam ul Haq                           c (wk)Hope b Cottrell                 3      12     15     0      0      25.0   
+Fakhar Zaman                          b Russell                             22     16     27     2      1      137.5  
+Babar Azam                            c (wk)Hope b Thomas                   19     32     47     2      0      59.38  
+Haris Sohail                          c (wk)Hope b Russell                  8      11     17     1      0      72.73  
+Sarfaraz Ahmed (c)                    c (wk)Hope b Holder                   8      12     34     1      0      66.67  
+Mohammad Hafeez                       c Cottrell b Thomas                   16     24     36     2      0      66.67  
+Imad Wasim                            c Gayle b Holder                      1      3      6      0      0      33.33  
+Shadab Khan                           lbw b Thomas                          0      2      3      0      0      0.0    
+Hasan Ali                             c Cottrell b Holder                   1      4      6      0      0      25.0   
+Wahab Riaz                            b Thomas                              19     11     19     1      2      172.73 
+Mohammad Amir                         not out                               4      6      0      0      0      66.67  
+Extras                                                                       4 (w 2, nb 2)
+TOTAL                                                                        104 all out  (21.4 Overs, RR: 4.84)
+Fall of wickets: 1-17 (Imam ul Haq, 3.0 ov), 2-32 (Fakhar Zaman, 5.4 ov), 3-42 (Haris Sohail, 9.3 ov), 4-59 (Babar Azam, 13.0 ov), 5-72 (Sarfaraz Ahmed (c), 16.0 ov), 6-74 (Imad Wasim, 16.5 ov), 7-75 (Shadab Khan, 17.2 ov), 8-78 (Hasan Ali, 18.2 ov), 9-80 (Mohammad Hafeez, 19.2 ov), 10-104 (Wahab Riaz, 21.4 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Sheldon Cottrell                      4.0    1         18        1         4.5       17        3         0         1         0         
+Jason Holder                          4.5    0         39        3         8.07      15        2         3         0         0         
+Andre Russell                         3.0    1         4         2         1.33      14        0         0         0         0         
+(c)  Carlos Brathwaite                4.0    0         14        0         3.5       14        1         0         0         0         
+Oshane Thomas                         5.5    0         27        4         4.76      21        3         0         1         2         
+
+West Indies Innings(13.4)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Chris Gayle                           c Shadab Khan b Mohammad Amir         50     34     51     6      3      147.06 
+Shai Hope (wk)                        c Mohammad Hafeez b Mohammad Amir     11     17     21     1      0      64.71  
+Darren Bravo                          c Babar Azam b Mohammad Amir          1      5      10     0      0      20.0   
+Nicholas Pooran                       not out                               34     19     0      4      2      178.95 
+Shimron Hetmyer                       not out                               7      8      0      0      0      87.5   
+Extras                                                                       6 (lb 3, w 3)
+TOTAL                                                                        108/3 (13.4 Overs, RR: 7.9)
+Did not bat: Andre Russell, Jason Holder, (c)  Carlos Brathwaite, Ashley Nurse, Sheldon Cottrell, Oshane Thomas
+Fall of wickets: 1-36 (Shai Hope (wk), 4.3 ov), 2-46 (Darren Bravo, 6.2 ov), 3-77 (Chris Gayle, 10.5 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Mohammad Amir                         6.0    0         26        3         4.33      22        3         0         1         0         
+Hasan Ali                             4.0    0         39        0         9.75      11        4         2         1         0         
+Wahab Riaz                            3.4    1         40        0         10.91     11        4         3         1         0         

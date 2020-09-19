@@ -1,0 +1,46 @@
+Sri Lanka Innings (50.0 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Dimuth Karunaratne (C)                c †Hope b Holder                      32     48     69     4      0      66.67  
+Kusal Perera (WK)                     not out                               64     51     0      8      0      125.49 
+Avishka Fernando                      c Allen b Cottrell                    106    104    151    9      2      101.92 
+Kusal Mendis                          c & b Allen                           39     41     53     4      0      95.12  
+Angelo Mathews                        b Holder                              26     20     45     2      1      130.0  
+Lahiru Thirimanne                     not out                               46     33     0      4      0      139.39 
+Isuru Udana                           c Holder b Thomas                     3      6      9      0      0      50.0   
+Dhananjaya de Silva                   not out                               6      3      0      1      0      200.0  
+Extras                                                                       19 (b 4, lb 5, w 5, nb 5)
+TOTAL                                                                        340/5 (50.0 Overs, RR: 6.8)
+Did not bat: Jeffrey Vandersay, Kasun Rajitha, Lasith Malinga
+Fall of wickets: 1-93 (Dimuth Karunaratne (C), 15.2 ov), 2-190 (Kusal Mendis, 31.5 ov), 3-248 (Angelo Mathews, 39.1 ov), 4-316 (Avishka Fernando, 47.2 ov), 5-329 (Isuru Udana, 49.0 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Sheldon Cottrell                      10.0   0         69        1         6.9       28        5         2         2         0         
+Oshane Thomas                         10.0   1         57        1         5.7       32        7         0         0         2         
+Shannon Gabriel                       5.0    0         45        0         9.0       12        7         0         1         1         
+Jason Holder (C)                      10.0   0         58        2         5.8       24        4         0         1         2         
+Carlos Brathwaite                     7.0    0         53        0         7.57      15        5         0         1         0         
+Fabian Allen                          8.0    0         44        1         5.5       23        4         1         0         0         
+
+West Indies Innings(49.5)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Chris Gayle                           c Vandersay b Rajitha                 35     48     70     1      2      72.92  
+Sunil Ambris                          c †Perera b Malinga                   6      7      11     1      0      85.71  
+Shai Hope (WK)                        b Malinga                             6      11     13     1      0      54.55  
+Shimron Hetmyer                       run out (de Silva)                    29     38     62     2      0      76.32  
+Nicholas Pooran                       c †Perera b Mathews                   118    102    156    11     4      115.69 
+Jason Holder (C)                      c sub (BMAJ Mendis) b Vandersay       26     26     38     4      0      100.0  
+Carlos Brathwaite                     not out                               9      15     0      1      0      60.0   
+Fabian Allen                          run out (Rajitha/Udana)               51     32     50     7      1      159.38 
+Sheldon Cottrell                      not out                               7      10     0      0      0      70.0   
+Oshane Thomas                         lbw b Malinga                         1      6      8      0      0      16.67  
+Shannon Gabriel                       not out                               3      7      0      0      0      42.86  
+Extras                                                                       27 (b 3, lb 2, w 20, nb 2)
+TOTAL                                                                        317/8 (49.5 Overs, RR: 6.36)
+Fall of wickets: 1-12 (Sunil Ambris, 2.2 ov), 2-23 (Shai Hope (WK), 5.0 ov), 3-72 (Chris Gayle, 15.2 ov), 4-85 (Shimron Hetmyer, 17.5 ov), 5-146 (Jason Holder (C), 28.2 ov), 6-284 (Fabian Allen, 44.0 ov), 7-310 (Nicholas Pooran, 47.0 ov), 8-313 (Oshane Thomas, 48.2 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Lasith Malinga                        10.0   0         55        3         5.5       34        6         0         4         1         
+Dhananjaya de Silva                   10.0   0         49        0         4.9       31        4         1         0         0         
+Isuru Udana                           10.0   0         67        2         6.7       27        7         1         3         0         
+Kasun Rajitha                         10.0   0         76        2         7.6       28        6         4         4         1         
+Jeffrey Vandersay                     7.0    0         50        1         7.14      19        6         0         4         0         
+Dimuth Karunaratne (C)                1.0    0         7         0         7.0       4         0         1         0         0         
+Angelo Mathews                        2.0    0         6         1         3.0       7         0         0         0         0         

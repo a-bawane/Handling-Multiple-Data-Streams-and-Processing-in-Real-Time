@@ -1,0 +1,32 @@
+Sri Lanka Innings (29.2 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Lahiru Thirimanne                     lbw b Henry                           4      2      4      1      0      200.0  
+Dimuth Karunaratne (capt)             not out                               52     84     0      4      0      61.9   
+Dhananjaya de Silva                   lbw b Ferguson                        4      13     15     1      0      30.77  
+Angelo Mathews                        c †Latham b de Grandhomme             0      9      14     0      0      0.0    
+Isuru Udana                           c Henry b Neesham                     0      3      5      0      0      0.0    
+Suranga Lakmal                        c Santner b Boult                     7      13     19     1      0      53.85  
+Lasith Malinga                        b Ferguson                            1      2      9      0      0      50.0   
+Extras                                                                       10 (b 1, w 7, nb 2)
+TOTAL                                                                        136/6 (29.2 Overs, RR: 4.64)
+Did not bat: Kusal Perera (wk), Kusal Mendis, Jeevan Mendis, Thisara Perera
+Fall of wickets: 1-4 (Lahiru Thirimanne, 0.2 ov), 2-53 (Dhananjaya de Silva, 11.5 ov), 3-59 (Angelo Mathews, 14.4 ov), 4-115 (Isuru Udana, 24.4 ov), 5-131 (Suranga Lakmal, 28.1 ov), 6-136 (Lasith Malinga, 29.2 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Matt Henry                            7.0    0         29        3         4.14      29        4         0         1         0         
+Trent Boult                           9.0    0         43        1         4.78      34        5         0         3         0         
+Lockie Ferguson                       6.2    0         21        3         3.32      27        2         0         1         1         
+Colin de Grandhomme                   2.0    0         14        1         7.0       5         0         1         0         0         
+James Neesham                         3.0    0         21        1         7.0       7         0         1         1         1         
+Mitchell Santner                      2.0    0         5         1         2.5       8         0         0         1         0         
+
+New Zealand Innings(16.1)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Martin Guptill                        not out                               73     51     0      8      2      143.14 
+Colin Munro                           not out                               58     47     0      6      1      123.4  
+Extras                                                                       6 (lb 3, w 2, nb 1)
+TOTAL                                                                        137/0 (16.1 Overs, RR: 8.47)
+Did not bat: Kane Williamson (capt), Ross Taylor, Tom Latham (wk), James Neesham, Colin de Grandhomme, Mitchell Santner, Matt Henry, Lockie Ferguson, Trent Boult
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Lasith Malinga                        5.0    0         45        0         9.0       9         6         0         1         1         
+Suranga Lakmal                        4.0    0         28        0         7.0       12        2         1         1         0         
+Isuru Udana                           3.0    0         24        0         8.0       6         2         1         0         0         

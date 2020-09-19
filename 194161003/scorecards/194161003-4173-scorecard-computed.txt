@@ -1,0 +1,46 @@
+Australia Innings (50.0 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Aaron Finch (c)                       c Woakes b Archer                     100    116    144    11     2      86.21  
+David Warner                          c Root b Ali                          53     61     95     6      0      86.89  
+Usman Khawaja                         b Stokes                              23     29     32     1      0      79.31  
+Steven Smith                          c Archer b Woakes                     38     34     64     5      0      111.76 
+Glenn Maxwell                         c †Buttler b Wood                     12     8      14     1      1      150.0  
+Marcus Stoinis                        not out                               8      15     0      1      0      53.33  
+Alex Carey (wk)                       not out                               34     26     0      4      0      130.77 
+Pat Cummins                           c †Buttler b Woakes                   5      5      8      1      0      100.0  
+Mitchell Starc                        not out                               4      6      0      0      0      66.67  
+Extras                                                                       8 (lb 4, w 4)
+TOTAL                                                                        285/6 (50.0 Overs, RR: 5.7)
+Did not bat: Jason Behrendorff, Nathan Lyon
+Fall of wickets: 1-123 (David Warner, 22.4 ov), 2-173 (Usman Khawaja, 32.2 ov), 3-185 (Aaron Finch (c), 35.3 ov), 4-213 (Glenn Maxwell, 38.2 ov), 5-250 (Steven Smith, 45.4 ov), 6-259 (Pat Cummins, 47.1 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Chris Woakes                          10.0   0         46        2         4.6       35        6         0         1         0         
+Jofra Archer                          9.0    0         56        1         6.22      31        7         1         1         0         
+Mark Wood                             9.0    0         59        1         6.56      28        9         0         2         0         
+Ben Stokes                            6.0    0         29        1         4.83      17        2         0         0         0         
+Moeen Ali                             6.0    0         42        1         7.0       12        1         2         0         0         
+Adil Rashid                           10.0   0         49        0         4.9       31        5         0         0         0         
+
+England Innings(44.4)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+James Vince                           b Behrendorff                         0      2      2      0      0      0.0    
+Joe Root                              lbw b Starc                           8      9      16     2      0      88.89  
+Jonny Bairstow                        c Cummins b Behrendorff               27     39     68     5      0      69.23  
+Eoin Morgan (c)                       c Cummins b Starc                     4      7      13     1      0      57.14  
+Ben Stokes                            b Starc                               89     115    138    8      2      77.39  
+Jos Buttler (wk)                      c Khawaja b Stoinis                   25     27     60     2      0      92.59  
+Chris Woakes                          c Finch b Behrendorff                 26     34     64     2      0      76.47  
+Moeen Ali                             c †Carey b Behrendorff                6      9      14     1      0      66.67  
+Adil Rashid                           c Stoinis b Starc                     25     20     24     3      1      125.0  
+Jofra Archer                          c Warner b Behrendorff                1      4      10     0      0      25.0   
+Mark Wood                             not out                               1      2      0      0      0      50.0   
+Extras                                                                       9 (b 1, lb 5, w 3)
+TOTAL                                                                        221 all out  (44.4 Overs, RR: 4.95)
+Fall of wickets: 1-0 (James Vince, 0.2 ov), 2-15 (Joe Root, 3.3 ov), 3-26 (Eoin Morgan (c), 5.5 ov), 4-53 (Jonny Bairstow, 13.5 ov), 5-124 (Jos Buttler (wk), 27.2 ov), 6-177 (Ben Stokes, 37.0 ov), 7-189 (Moeen Ali, 39.3 ov), 8-202 (Chris Woakes, 41.3 ov), 9-211 (Jofra Archer, 43.3 ov), 10-221 (Adil Rashid, 44.4 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Jason Behrendorff                     10.0   0         44        5         4.4       41        8         0         1         0         
+Mitchell Starc                        8.4    1         43        4         4.96      29        5         0         0         0         
+Pat Cummins                           8.0    1         41        0         5.12      30        7         0         1         0         
+Nathan Lyon                           9.0    0         43        0         4.78      27        2         1         0         0         
+Marcus Stoinis                        7.0    0         29        1         4.14      21        2         0         1         0         
+Glenn Maxwell                         2.0    0         15        0         7.5       7         0         2         0         0         

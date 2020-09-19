@@ -1,0 +1,48 @@
+England Innings (50.0 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Jason Roy                             c du Plessis b Phehlukwayo            54     53     80     8      0      101.89 
+Jonny Bairstow                        c †de Kock b Imran Tahir              0      2      2      0      0      0.0    
+Joe Root                              c Duminy b Rabada                     51     59     83     5      0      86.44  
+Eoin Morgan (c)                       c Markram b Imran Tahir               57     60     73     4      3      95.0   
+Ben Stokes                            c Amla b Ngidi                        89     79     132    9      0      112.66 
+Jos Buttler (wk)                      b Ngidi                               18     16     21     0      0      112.5  
+Moeen Ali                             c du Plessis b Ngidi                  3      9      13     0      0      33.33  
+Chris Woakes                          c du Plessis b Rabada                 13     14     24     1      0      92.86  
+Liam Plunkett                         not out                               9      6      0      1      0      150.0  
+Jofra Archer                          not out                               7      3      0      1      0      233.33 
+Extras                                                                       10 (lb 2, w 8)
+TOTAL                                                                        311/8 (50.0 Overs, RR: 6.22)
+Did not bat: Adil Rashid
+Fall of wickets: 1-1 (Jonny Bairstow, 0.2 ov), 2-107 (Jason Roy, 18.4 ov), 3-111 (Joe Root, 19.1 ov), 4-217 (Eoin Morgan (c), 36.5 ov), 5-247 (Jos Buttler (wk), 41.2 ov), 6-260 (Moeen Ali, 44.0 ov), 7-285 (Chris Woakes, 47.3 ov), 8-300 (Ben Stokes, 49.0 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Imran Tahir                           10.0   0         61        2         6.1       20        4         0         0         0         
+Lungi Ngidi                           10.0   0         66        3         6.6       28        6         2         2         0         
+Kagiso Rabada                         10.0   0         66        2         6.6       24        8         0         2         0         
+Dwayne Pretorius                      7.0    0         42        0         6.0       17        5         0         0         0         
+Andile Phehlukwayo                    8.0    0         44        1         5.5       23        4         0         4         0         
+JP Duminy                             2.0    0         14        0         7.0       3         1         0         0         0         
+Aiden Markram                         3.0    0         16        0         5.33      10        1         1         0         0         
+
+South Africa Innings(39.5)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Quinton de Kock (wk)                  c Root b Plunkett                     68     74     94     6      2      91.89  
+Hashim Amla                           c †Buttler b Plunkett                 13     23     46     1      0      56.52  
+Aiden Markram                         c Root b Archer                       11     12     17     2      0      91.67  
+Faf du Plessis (c)                    c Ali b Archer                        5      7      11     1      0      71.43  
+Rassie van der Dussen                 c Ali b Archer                        49     60     85     4      1      81.67  
+JP Duminy                             c Stokes b Ali                        8      11     12     1      0      72.73  
+Dwayne Pretorius                      run out (Stokes/Morgan)               2      2      6      0      0      100.0  
+Andile Phehlukwayo                    c Stokes b Rashid                     24     25     34     4      0      96.0   
+Kagiso Rabada                         c Plunkett b Stokes                   11     19     23     2      0      57.89  
+Lungi Ngidi                           not out                               6      5      0      0      1      120.0  
+Imran Tahir                           c Root b Stokes                       0      2      2      0      0      0.0    
+Extras                                                                       10 (b 4, lb 5, w 1)
+TOTAL                                                                        207 all out  (39.5 Overs, RR: 5.2)
+Fall of wickets: 1-36 (Aiden Markram, 7.4 ov), 2-44 (Faf du Plessis (c), 9.3 ov), 3-129 (Quinton de Kock (wk), 23.0 ov), 4-142 (JP Duminy, 25.5 ov), 5-144 (Dwayne Pretorius, 26.2 ov), 6-167 (Rassie van der Dussen, 31.5 ov), 7-180 (Andile Phehlukwayo, 34.1 ov), 8-193 (Hashim Amla, 38.1 ov), 9-207 (Kagiso Rabada, 39.4 ov), 10-207 (Imran Tahir, 39.5 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Chris Woakes                          5.0    0         24        0         4.8       20        4         0         0         0         
+Jofra Archer                          7.0    1         27        3         3.86      29        4         0         1         0         
+Adil Rashid                           8.0    0         35        1         4.38      27        4         0         0         0         
+Moeen Ali                             10.0   0         63        1         6.3       28        6         2         0         0         
+Liam Plunkett                         7.0    0         36        3         5.14      21        1         2         0         0         
+Ben Stokes                            2.5    0         12        2         4.24      11        2         0         0         0         

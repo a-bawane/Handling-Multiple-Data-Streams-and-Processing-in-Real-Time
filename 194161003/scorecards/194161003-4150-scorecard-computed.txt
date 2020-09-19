@@ -1,0 +1,42 @@
+South Africa Innings (50.0 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Hashim Amla                           c Sharma b Bumrah                     6      9      16     1      0      66.67  
+Quinton de Kock (wk)                  c Kohli b Bumrah                      10     17     28     1      0      58.82  
+Faf du Plessis (c)                    b Chahal                              38     54     77     4      0      70.37  
+Rassie van der Dussen                 b Chahal                              22     37     59     1      0      59.46  
+David Miller                          c & b Chahal                          31     40     69     1      0      77.5   
+JP Duminy                             lbw b Kuldeep Yadav                   3      11     11     0      0      27.27  
+Andile Phehlukwayo                    st †Dhoni b Chahal                    34     61     68     2      1      55.74  
+Chris Morris                          c Kohli b Kumar                       42     34     58     1      2      123.53 
+Kagiso Rabada                         not out                               31     35     0      2      0      88.57  
+Imran Tahir                           c Jadhav b Kumar                      0      2      2      0      0      0.0    
+Extras                                                                       10 (b 1, lb 3, w 6)
+TOTAL                                                                        227/9 (50.0 Overs, RR: 4.54)
+Did not bat: Tabraiz Shamsi
+Fall of wickets: 1-11 (Hashim Amla, 3.2 ov), 2-24 (Quinton de Kock (wk), 5.5 ov), 3-78 (Rassie van der Dussen, 19.1 ov), 4-80 (Faf du Plessis (c), 20.0 ov), 5-89 (JP Duminy, 23.0 ov), 6-135 (David Miller, 35.3 ov), 7-158 (Andile Phehlukwayo, 39.3 ov), 8-224 (Chris Morris, 49.2 ov), 9-227 (Imran Tahir, 50.0 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Bhuvneshwar Kumar                     10.0   0         44        2         4.4       33        3         0         2         0         
+Jasprit Bumrah                        10.0   1         35        2         3.5       41        4         0         0         0         
+Hardik Pandya                         6.0    0         31        0         5.17      16        2         0         0         0         
+Kuldeep Yadav                         10.0   0         46        1         4.6       28        2         1         1         0         
+Yuzvendra Chahal                      10.0   0         51        4         5.1       32        1         2         3         0         
+Kedar Jadhav                          4.0    0         16        0         4.0       13        1         0         0         0         
+
+India Innings(47.4)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Shikhar Dhawan                        c †de Kock b Rabada                   8      12     23     1      0      66.67  
+Rohit Sharma                          not out                               122    144    0      13     2      84.72  
+Virat Kohli (c)                       c †de Kock b Phehlukwayo              18     34     44     1      0      52.94  
+KL Rahul                              c du Plessis b Rabada                 26     42     71     2      0      61.9   
+MS Dhoni (wk)                         c & b Morris                          34     46     69     2      0      73.91  
+Hardik Pandya                         not out                               15     7      0      3      0      214.29 
+Extras                                                                       7 (lb 3, w 4)
+TOTAL                                                                        230/4 (47.4 Overs, RR: 4.84)
+Did not bat: Kedar Jadhav, Bhuvneshwar Kumar, Kuldeep Yadav, Yuzvendra Chahal, Jasprit Bumrah
+Fall of wickets: 1-13 (Shikhar Dhawan, 5.1 ov), 2-54 (Virat Kohli (c), 15.3 ov), 3-139 (KL Rahul, 31.3 ov), 4-213 (MS Dhoni (wk), 46.1 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Imran Tahir                           10.0   0         58        0         5.8       20        4         0         0         0         
+Kagiso Rabada                         10.0   1         39        2         3.9       40        4         1         1         0         
+Chris Morris                          10.0   3         36        1         3.6       43        5         0         1         0         
+Andile Phehlukwayo                    8.4    0         40        1         4.71      30        5         0         1         0         
+Tabraiz Shamsi                        9.0    0         54        0         6.0       25        4         1         1         0         

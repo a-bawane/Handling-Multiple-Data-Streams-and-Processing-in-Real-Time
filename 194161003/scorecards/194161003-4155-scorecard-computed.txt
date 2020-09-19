@@ -1,0 +1,43 @@
+India Innings (50.0 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Rohit Sharma                          c †Carey b Coulter-Nile               57     70     101    3      1      81.43  
+Shikhar Dhawan                        c sub (NM Lyon) b Starc               117    109    163    16     0      107.34 
+Virat Kohli(c)                        c Cummins b Stoinis                   82     77     128    4      2      106.49 
+Hardik Pandya                         c Finch b Cummins                     48     27     41     4      3      177.78 
+MS Dhoni(w)                           c & b Stoinis                         27     14     20     3      1      192.86 
+Lokesh Rahul                          not out                               11     3      0      1      1      366.67 
+Extras                                                                       10 (lb 3, w 7)
+TOTAL                                                                        352/5 (50.0 Overs, RR: 7.04)
+Did not bat: Kedar Jadhav, Bhuvneshwar Kumar, Kuldeep Yadav, Yuzvendra Chahal, Jasprit Bumrah
+Fall of wickets: 1-127 (Rohit Sharma, 22.3 ov), 2-220 (Shikhar Dhawan, 37.0 ov), 3-301 (Hardik Pandya, 45.6 ov), 4-338 (MS Dhoni(w), 49.1 ov), 5-348 (Virat Kohli(c), 49.6 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Pat Cummins                           10.0   0         55        1         5.5       34        5         1         3         0         
+Mitchell Starc                        10.0   0         74        1         7.4       22        4         3         0         0         
+Nathan Coulter-Nile                   10.0   1         63        1         6.3       28        8         1         1         0         
+Glenn Maxwell                         7.0    0         45        0         6.43      14        4         1         0         0         
+Adam Zampa                            6.0    0         50        0         8.33      6         4         1         0         0         
+Marcus Stoinis                        7.0    0         62        2         8.86      12        6         1         3         0         
+
+Australia Innings(50.4)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+David Warner                          c Kumar b Chahal                      56     84     111    5      0      66.67  
+Aaron Finch(c)                        not out                               36     35     0      3      1      102.86 
+Steven Smith                          lbw b Kumar                           69     70     115    5      1      98.57  
+Usman Khawaja                         b Bumrah                              42     39     48     4      1      107.69 
+Glenn Maxwell                         c sub (RA Jadeja) b Chahal            28     14     25     5      0      200.0  
+Marcus Stoinis                        b Kumar                               0      2      3      0      0      0.0    
+Alex Carey(w)                         not out                               55     35     0      6      1      157.14 
+Nathan Coulter-Nile                   c Kohli b Bumrah                      4      9      22     0      0      44.44  
+Pat Cummins                           c †Dhoni b Bumrah                     8      7      11     1      0      114.29 
+Mitchell Starc                        not out                               3      3      0      0      0      100.0  
+Adam Zampa                            c sub (RA Jadeja) b Kumar             1      3      4      0      0      33.33  
+Extras                                                                       14 (b 3, lb 3, w 7, nb 1)
+TOTAL                                                                        320/8 (50.4 Overs, RR: 6.32)
+Fall of wickets: 1-137 (David Warner, 25.2 ov), 2-206 (Usman Khawaja, 37.2 ov), 3-242 (Steven Smith, 40.2 ov), 4-242 (Marcus Stoinis, 40.4 ov), 5-248 (Glenn Maxwell, 41.2 ov), 6-287 (Nathan Coulter-Nile, 45.3 ov), 7-304 (Pat Cummins, 47.4 ov), 8-320 (Adam Zampa, 50.4 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Bhuvneshwar Kumar                     10.0   0         50        3         5.0       31        5         0         1         0         
+Jasprit Bumrah                        10.0   1         61        3         6.1       34        10        0         1         0         
+Hardik Pandya                         10.0   0         67        0         6.7       24        6         1         2         1         
+Kuldeep Yadav                         9.0    0         55        0         6.11      19        4         1         0         0         
+Yuzvendra Chahal                      10.0   0         62        2         6.2       21        3         1         1         0         
+Kedar Jadhav                          1.0    0         14        0         14.0      2         1         1         2         0         

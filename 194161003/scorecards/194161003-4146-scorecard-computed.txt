@@ -1,0 +1,40 @@
+Afghanistan Innings (38.2 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Mohammad Shahzad (wk)                 b Starc                               0      3      4      0      0      0.0    
+Rahmat Shah                           c Smith b Zampa                       44     60     86     6      0      73.33  
+Hazratullah Zazai                     c †Carey b Cummins                    0      2      10     0      0      0.0    
+Hashmatullah Shahidi                  st †Carey b Zampa                     18     34     56     3      0      52.94  
+Mohammad Nabi                         run out (Smith/†Carey)                7      22     28     0      0      31.82  
+Gulbadin Naib (capt)                  c †Carey b Stoinis                    31     33     67     4      1      93.94  
+Najibullah Zadran                     c †Carey b Stoinis                    50     48     66     7      2      104.17 
+Rashid Khan                           lbw b Zampa                           28     12     23     2      3      233.33 
+Dawlat Zadran                         c †Carey b Cummins                    4      6      5      1      0      66.67  
+Hamid Hassan                          not out                               1      2      0      0      0      50.0   
+Extras                                                                       12 (lb 3, w 8, nb 1)
+TOTAL                                                                        208/9 (38.2 Overs, RR: 5.43)
+Did not bat: Mujeeb-ur-Rahman
+Fall of wickets: 1-0 (Mohammad Shahzad (wk), 0.3 ov), 2-6 (Hazratullah Zazai, 1.2 ov), 3-57 (Hashmatullah Shahidi, 13.5 ov), 4-76 (Rahmat Shah, 19.2 ov), 5-78 (Mohammad Nabi, 20.2 ov), 6-161 (Gulbadin Naib (capt), 33.1 ov), 7-163 (Najibullah Zadran, 33.5 ov), 8-167 (Dawlat Zadran, 35.0 ov), 9-206 (Rashid Khan, 37.3 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Mitchell Starc                        7.0    1         31        1         4.43      30        5         0         2         0         
+Pat Cummins                           8.2    0         40        3         4.8       36        6         1         1         1         
+Nathan Coulter-Nile                   8.0    1         36        0         4.5       33        4         1         2         0         
+Marcus Stoinis                        7.0    1         37        3         5.29      30        4         2         3         0         
+Adam Zampa                            8.0    0         60        3         7.5       19        5         3         0         0         
+
+Australia Innings(34.5)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Aaron Finch (capt)                    c Mujeeb Ur Rahman b Gulbadin Naib    66     49     63     6      4      134.69 
+David Warner                          not out                               91     114    0      8      0      79.82  
+Usman Khawaja                         lbw b Rashid Khan                     15     20     32     1      0      75.0   
+Steven Smith                          c Hazratullah Zazai b Mujeeb Ur Rahman19     28     36     1      0      67.86  
+Glenn Maxwell                         not out                               4      1      0      1      0      400.0  
+Extras                                                                       17 (lb 1, w 14, nb 2)
+TOTAL                                                                        211/3 (34.5 Overs, RR: 6.06)
+Did not bat: Marcus Stoinis, Alex Carey (wk), Pat Cummins, Nathan Coulter-Nile, Mitchell Starc, Adam Zampa
+Fall of wickets: 1-97 (Aaron Finch (capt), 16.2 ov), 2-158 (Usman Khawaja, 25.0 ov), 3-207 (Steven Smith, 34.4 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Hamid Hassan                          6.0    2         15        0         2.5       28        2         0         1         0         
+Dawlat Zadran                         5.0    0         32        0         6.4       17        3         1         1         1         
+Gulbadin Naib (capt)                  5.0    0         32        1         6.4       16        2         1         2         1         
+Mohammad Nabi                         6.0    0         32        0         5.33      18        3         0         2         0         
+Rashid Khan                           8.0    0         52        1         6.5       17        4         1         0         0         

@@ -1,0 +1,50 @@
+Australia Innings (50.0 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+David Warner                          c Latham(wk) b Ferguson               16     23     39     3      0      69.57  
+Aaron Finch (c)                       lbw b Boult                           8      15     19     1      0      53.33  
+Usman Khawaja                         b Boult                               88     129    187    5      0      68.22  
+Steve Smith                           c Guptill b Ferguson                  5      8      13     0      0      62.5   
+Marcus Stoinis                        c Latham(wk) b Neesham                21     26     41     3      0      80.77  
+Glenn Maxwell                         c & b Neesham                         1      5      8      0      0      20.0   
+Alex Carey (wk)                       c Guptill b Williamson                71     72     113    11     0      98.61  
+Pat Cummins                           not out                               23     19     0      1      0      121.05 
+Mitchell Starc                        b Boult                               0      2      2      0      0      0.0    
+Jason Behrendorff                     lbw b Boult                           0      2      4      0      0      0.0    
+Nathan Lyon                           not out                               0      1      0      0      0      0.0    
+Extras                                                                       10 (lb 3, w 7)
+TOTAL                                                                        243/9 (50.0 Overs, RR: 4.86)
+Fall of wickets: 1-15 (Aaron Finch (c), 4.3 ov), 2-38 (David Warner, 9.1 ov), 3-46 (Steve Smith, 11.2 ov), 4-81 (Marcus Stoinis, 20.0 ov), 5-92 (Glenn Maxwell, 21.3 ov), 6-199 (Alex Carey (wk), 43.0 ov), 7-243 (Usman Khawaja, 49.3 ov), 8-243 (Mitchell Starc, 49.4 ov), 9-243 (Jason Behrendorff, 49.5 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Trent Boult                           10.0   1         51        4         5.1       35        6         0         0         0         
+Colin de Grandhomme                   8.0    1         29        0         3.62      31        3         0         1         0         
+Lockie Ferguson                       10.0   0         49        2         4.9       35        7         0         0         0         
+Ish Sodhi                             6.0    0         35        0         5.83      12        2         0         0         0         
+James Neesham                         6.0    0         28        2         4.67      21        4         0         1         0         
+Mitchell Santner                      3.0    0         23        0         7.67      8         3         0         1         0         
+Kane Williamson (c)                   7.0    0         25        1         3.57      19        0         0         0         0         
+
+New Zealand Innings(43.4)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Martin Guptill                        lbw b Behrendorff                     20     43     60     2      0      46.51  
+Henry Nicholls                        c Carey(wk) b Behrendorff             8      20     43     2      0      40.0   
+Kane Williamson (c)                   c Carey(wk) b Starc                   40     51     69     2      1      78.43  
+Ross Taylor                           c Carey(wk) b Cummins                 30     54     76     2      0      55.56  
+Tom Latham (wk)                       c Smith b Starc                       14     28     41     0      0      50.0   
+Colin de Grandhomme                   c Khawaja b Smith                     0      2      6      0      0      0.0    
+James Neesham                         c & b Lyon                            9      22     24     0      0      40.91  
+Mitchell Santner                      c Behrendorff b Starc                 12     29     42     0      1      41.38  
+Ish Sodhi                             lbw b Starc                           5      4      11     1      0      125.0  
+Lockie Ferguson                       b Starc                               0      3      7      0      0      0.0    
+Trent Boult                           not out                               2      7      0      0      0      28.57  
+Extras                                                                       17 (b 4, lb 3, w 10)
+TOTAL                                                                        157 all out  (43.4 Overs, RR: 3.6)
+Fall of wickets: 1-29 (Henry Nicholls, 9.2 ov), 2-42 (Martin Guptill, 13.1 ov), 3-97 (Kane Williamson (c), 25.4 ov), 4-118 (Ross Taylor, 31.4 ov), 5-118 (Colin de Grandhomme, 32.1 ov), 6-125 (Tom Latham (wk), 35.3 ov), 7-131 (James Neesham, 38.1 ov), 8-141 (Ish Sodhi, 40.0 ov), 9-144 (Lockie Ferguson, 41.1 ov), 10-157 (Mitchell Santner, 43.4 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Jason Behrendorff                     9.0    0         31        2         3.44      37        2         0         3         0         
+Mitchell Starc                        9.4    1         26        5         2.69      45        2         0         4         0         
+Pat Cummins                           6.0    1         14        1         2.33      28        2         0         0         0         
+Nathan Lyon                           10.0   0         36        1         3.6       37        1         1         1         0         
+Steve Smith                           2.0    0         6         1         3.0       6         0         0         0         0         
+Aaron Finch (c)                       1.0    0         7         0         7.0       2         1         0         0         0         
+Marcus Stoinis                        2.0    0         12        0         6.0       7         0         1         0         0         
+Glenn Maxwell                         4.0    0         18        0         4.5       10        1         0         0         0         

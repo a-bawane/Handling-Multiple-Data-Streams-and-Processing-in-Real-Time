@@ -1,0 +1,44 @@
+England Innings (50.0 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Jason Roy                             c Mashrafe Mortaza b Mehidy Hasan Miraz153    121    153    14     5      126.45 
+Jonny Bairstow                        c Mehidy Hasan Miraz b Mashrafe Mortaza51     50     81     7      0      102.0  
+Joe Root                              b Mohammad Saifuddin                  21     29     54     1      0      72.41  
+Jos Buttler (wk)                      c Soumya Sarkar b Mohammad Saifuddin  65     44     66     2      4      147.73 
+Eoin Morgan (capt)                    c Soumya Sarkar b Mehidy Hasan Miraz  35     33     56     1      2      106.06 
+Ben Stokes                            c Mashrafe Mortaza b Mustafizur Rahman7      8      13     0      0      87.5   
+Chris Woakes                          not out                               18     8      0      0      2      225.0  
+Liam Plunkett                         not out                               27     9      0      4      1      300.0  
+Extras                                                                       11 (lb 3, w 7, nb 1)
+TOTAL                                                                        386/6 (50.0 Overs, RR: 7.72)
+Did not bat: Adil Rashid, Jofra Archer, Mark Wood
+Fall of wickets: 1-128 (Jonny Bairstow, 19.1 ov), 2-205 (Joe Root, 31.3 ov), 3-235 (Jason Roy, 34.4 ov), 4-330 (Jos Buttler (wk), 45.2 ov), 5-340 (Eoin Morgan (capt), 46.5 ov), 6-341 (Ben Stokes, 47.1 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Shakib Al Hasan                       10.0   0         71        0         7.1       28        8         2         2         0         
+Mashrafe Mortaza                      10.0   0         68        1         6.8       24        6         2         0         0         
+Mohammad Saifuddin                    9.0    0         78        2         8.67      18        7         2         2         0         
+Mustafizur Rahman                     9.0    0         74        1         8.22      19        4         3         2         1         
+Mosaddek Hossain                      2.0    0         24        0         12.0      1         1         2         0         0         
+
+Bangladesh Innings(48.5)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Tamim Iqbal                           c Morgan b Wood                       19     29     53     1      0      65.52  
+Soumya Sarkar                         b Archer                              2      8      14     0      0      25.0   
+Shakib Al Hasan                       b Stokes                              121    119    147    12     1      101.68 
+Mushfiqur Rahim (wk)                  c Roy b Plunkett                      44     50     65     2      0      88.0   
+Mohammad Mithun                       c †Bairstow b Rashid                  0      2      4      0      0      0.0    
+Mahmudullah                           c †Bairstow b Wood                    28     41     66     1      1      68.29  
+Mosaddek Hossain                      c Archer b Stokes                     26     16     16     4      0      162.5  
+Mohammad Saifuddin                    b Stokes                              5      8      13     0      0      62.5   
+Mashrafe Mortaza                      not out                               4      9      0      0      0      44.44  
+Mustafizur Rahman                     c †Bairstow b Archer                  0      3      4      0      0      0.0    
+Extras                                                                       19 (lb 9, w 10)
+TOTAL                                                                        280/9 (48.5 Overs, RR: 5.73)
+Did not bat: Mehidy Hasan
+Fall of wickets: 1-8 (Soumya Sarkar, 3.2 ov), 2-63 (Tamim Iqbal, 12.0 ov), 3-169 (Mushfiqur Rahim (wk), 29.0 ov), 4-170 (Mohammad Mithun, 29.3 ov), 5-219 (Shakib Al Hasan, 39.3 ov), 6-254 (Mosaddek Hossain, 43.1 ov), 7-261 (Mahmudullah, 45.0 ov), 8-264 (Mohammad Saifuddin, 45.4 ov), 9-280 (Mustafizur Rahman, 48.5 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Chris Woakes                          8.0    0         67        0         8.38      13        9         0         0         0         
+Jofra Archer                          8.5    2         29        3         3.28      37        1         1         1         0         
+Liam Plunkett                         8.0    0         36        1         4.5       17        1         0         2         0         
+Mark Wood                             8.0    0         52        2         6.5       16        6         0         0         0         
+Adil Rashid                           10.0   0         64        1         6.4       22        5         1         2         0         
+Ben Stokes                            6.0    1         23        3         3.83      20        1         0         1         0         

@@ -1,0 +1,47 @@
+Australia Innings (48.5 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+David Warner                          c Hetmyer b Cottrell                  9      9      24     1      0      100.0  
+Aaron Finch (c)                       c †Hope b Thomas                      6      10     13     0      0      60.0   
+Usman Khawaja                         c †Hope b Russell                     14     20     26     2      0      70.0   
+Steve Smith                           c Cottrell b Thomas                   70     102    178    7      0      68.63  
+Glenn Maxwell                         c †Hope b Cottrell                    0      2      5      0      0      0.0    
+Marcus Stoinis                        c Pooran b Holder                     19     23     41     4      0      82.61  
+Alex Carey (wk)                       c †Hope b Russell                     45     55     62     7      0      81.82  
+Nathan Coulter-Nile                   c Holder b Brathwaite                 92     60     79     8      4      153.33 
+Pat Cummins                           c Cottrell b Brathwaite               2      6      12     0      0      33.33  
+Mitchell Starc                        c Holder b Brathwaite                 8      9      13     1      0      88.89  
+Extras                                                                       27 (b 1, lb 1, w 24, nb 1)
+TOTAL                                                                        286 all out  (48.5 Overs, RR: 5.86)
+Did not bat: Adam Zampa
+Fall of wickets: 1-16 (Aaron Finch (c), 2.2 ov), 2-27 (David Warner, 4.0 ov), 3-37 (Usman Khawaja, 7.0 ov), 4-39 (Glenn Maxwell, 7.5 ov), 5-80 (Marcus Stoinis, 16.1 ov), 6-145 (Alex Carey (wk), 30.3 ov), 7-247 (Steve Smith, 44.1 ov), 8-266 (Pat Cummins, 46.0 ov), 9-282 (Nathan Coulter-Nile, 48.1 ov), 10-286 (Mitchell Starc, 48.5 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Oshane Thomas                         10.0   0         63        2         6.3       34        8         0         8         1         
+Sheldon Cottrell                      9.0    0         56        2         6.22      25        4         2         3         0         
+Andre Russell                         8.0    0         41        2         5.12      31        3         1         5         0         
+Carlos Brathwaite                     10.0   0         67        3         6.7       31        9         1         2         0         
+Jason Holder (c)                      6.5    2         25        1         3.66      29        4         0         0         0         
+Ashley Nurse                          5.0    0         31        0         6.2       8         2         0         2         0         
+
+West Indies Innings(49.5)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Chris Gayle                           lbw b Starc                           26     17     29     5      0      152.94 
+Evin Lewis                            c Smith b Cummins                     1      5      10     0      0      20.0   
+Shai Hope (wk)                        c Khawaja b Cummins                   68     105    141    7      0      64.76  
+Nicholas Pooran                       c Finch b Zampa                       40     36     59     5      1      111.11 
+Shimron Hetmyer                       not out                               21     28     0      3      0      75.0   
+Jason Holder (c)                      c Zampa b Starc                       47     56     83     6      1      83.93  
+Andre Russell                         c Maxwell b Starc                     15     11     19     2      1      136.36 
+Carlos Brathwaite                     c Finch b Starc                       20     18     31     2      1      111.11 
+Ashley Nurse                          not out                               19     18     0      4      0      105.56 
+Sheldon Cottrell                      b Starc                               1      2      7      0      0      50.0   
+Oshane Thomas                         not out                               0      4      0      0      0      0.0    
+Extras                                                                       20 (lb 9, w 11)
+TOTAL                                                                        273/8 (49.5 Overs, RR: 5.48)
+Fall of wickets: 1-7 (Evin Lewis, 1.4 ov), 2-31 (Chris Gayle, 4.6 ov), 3-99 (Nicholas Pooran, 19.1 ov), 4-190 (Shai Hope (wk), 34.5 ov), 5-216 (Andre Russell, 38.4 ov), 6-252 (Carlos Brathwaite, 45.2 ov), 7-252 (Jason Holder (c), 45.5 ov), 8-256 (Sheldon Cottrell, 47.2 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Mitchell Starc                        10.0   1         46        5         4.6       44        6         1         4         0         
+Pat Cummins                           10.0   3         41        2         4.1       42        6         0         3         0         
+Nathan Coulter-Nile                   10.0   0         70        0         7.0       28        10        1         0         0         
+Glenn Maxwell                         6.0    1         31        1         5.17      19        3         0         0         0         
+Adam Zampa                            10.0   0         58        1         5.8       33        8         1         0         0         
+Marcus Stoinis                        4.0    0         18        0         4.5       14        1         1         0         0         

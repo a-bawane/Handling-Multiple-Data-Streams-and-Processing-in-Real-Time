@@ -1,0 +1,44 @@
+Pakistan Innings (50.0 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Fakhar Zaman                          c Mehidy Hasan Miraz b Mohammad Saifuddin13     31     27     1      0      41.94  
+Imam-ul-Haq                           hit wicket b Mustafizur Rahman        100    100    172    8      0      100.0  
+Babar Azam                            lbw b Mohammad Saifuddin              96     98     102    11     0      97.96  
+Mohammad Hafeez                       c Shakib Al Hasan b Mehidy Hasan Miraz27     25     49     3      0      108.0  
+Haris Sohail                          c Soumya Sarkar b Mustafizur Rahman   6      6      13     1      0      100.0  
+Imad Wasim                            c Mahmudullah b Mustafizur Rahman     43     26     49     6      1      165.38 
+Sarfaraz Ahmed (c)                    not out                               3      3      0      0      0      100.0  
+Wahab Riaz                            b Mohammad Saifuddin                  3      4      10     0      0      75.0   
+Shadab Khan                           c & b Mustafizur Rahman               1      2      4      0      0      50.0   
+Mohammad Amir                         c †Mushfiqur Rahim b Mustafizur Rahman8      6      16     1      0      133.33 
+Extras                                                                       16 (lb 3, w 12, nb 1)
+TOTAL                                                                        315/9 (50.0 Overs, RR: 6.3)
+Did not bat: Shaheen Afridi
+Fall of wickets: 1-23 (Fakhar Zaman, 7.2 ov), 2-180 (Babar Azam, 32.0 ov), 3-246 (Imam-ul-Haq, 41.5 ov), 4-248 (Mohammad Hafeez, 42.4 ov), 5-255 (Haris Sohail, 43.6 ov), 6-288 (Wahab Riaz, 46.6 ov), 7-289 (Shadab Khan, 47.1 ov), 8-314 (Imad Wasim, 49.4 ov), 9-314 (Mohammad Amir, 49.5 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Mehidy Hasan Miraz                    10.0   0         30        1         3.0       38        1         0         1         0         
+Mohammad Saifuddin  Mashrafe Mortaza (c)16.0   0         122       3         7.62      34        12        1         3         1         
+Mustafizur Rahman                     10.0   0         75        5         7.5       24        12        0         1         0         
+Shakib Al Hasan                       10.0   0         57        0         5.7       20        4         0         1         0         
+Mosaddek Hossain                      4.0    0         27        0         6.75      10        3         0         1         0         
+
+Bangladesh Innings(44.1)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Tamim Iqbal                           b Shaheen Shah Afridi                 8      21     40     0      0      38.1   
+Soumya Sarkar                         c Fakhar Zaman b Mohammad Amir        22     22     20     4      0      100.0  
+Shakib Al Hasan                       c †Sarfaraz Ahmed b Shaheen Shah Afridi64     77     109    6      0      83.12  
+Mushfiqur Rahim (wk)                  b Wahab Riaz                          16     19     29     2      0      84.21  
+Liton Das                             c Haris Sohail b Shaheen Shah Afridi  32     40     38     3      0      80.0   
+Mahmudullah                           b Shaheen Shah Afridi                 29     41     64     3      0      70.73  
+Mosaddek Hossain                      c Babar Azam b Shadab Khan            16     21     36     1      0      76.19  
+Mohammad Saifuddin  Mashrafe Mortaza (c)st †Sarfaraz Ahmed b Shadab Khan      15     16     14     0      2      93.75  
+Mehidy Hasan Miraz                    not out                               7      6      0      1      0      116.67 
+Mustafizur Rahman                     b Shaheen Shah Afridi                 1      3      5      0      0      33.33  
+Extras                                                                       11 (lb 5, w 6)
+TOTAL                                                                        221/9 (44.1 Overs, RR: 5.0)
+Fall of wickets: 1-26 (Soumya Sarkar, 5.5 ov), 2-48 (Tamim Iqbal, 10.4 ov), 3-78 (Mushfiqur Rahim (wk), 17.2 ov), 4-136 (Liton Das, 28.1 ov), 5-154 (Shakib Al Hasan, 32.1 ov), 6-197 (Mosaddek Hossain, 39.4 ov), 7-197 (Mohammad Saifuddin  Mashrafe Mortaza (c), 40.1 ov), 8-198 (Mahmudullah, 40.3 ov), 9-219 (Mohammad Saifuddin  Mashrafe Mortaza (c), 43.4 ov), 10-221 (Mustafizur Rahman, 44.1 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Mohammad Hafeez                       6.0    1         32        0         5.33      18        4         0         0         0         
+Mohammad Amir                         7.0    0         31        1         4.43      23        3         0         1         0         
+Wahab Riaz                            7.0    0         33        1         4.71      22        3         0         1         0         
+Imad Wasim                            6.0    0         26        0         4.33      16        2         0         0         0         
+Shadab Khan                           9.0    0         59        2         6.56      24        7         1         0         0         

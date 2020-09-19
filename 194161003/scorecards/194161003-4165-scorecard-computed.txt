@@ -1,0 +1,41 @@
+South Africa Innings (48.5 overs maximum)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Quinton de Kock (wk)                  b Boult                               5      8      8      1      0      62.5   
+Hashim Amla                           b Santner                             55     83     111    4      0      66.27  
+Faf du Plessis (capt)                 b Ferguson                            23     35     53     4      0      65.71  
+Aiden Markram                         c Munro b de Grandhomme               34     54     74     3      0      62.96  
+Rassie van der Dussen                 not out                               67     64     0      2      3      104.69 
+David Miller                          c Boult b Ferguson                    36     37     55     2      1      97.3   
+Andile Phehlukwayo                    c Williamson b Ferguson               0      5      12     0      0      0.0    
+Chris Morris                          not out                               6      7      0      1      0      85.71  
+Extras                                                                       11 (lb 7, w 4)
+TOTAL                                                                        237/6 (48.5 Overs, RR: 4.85)
+Did not bat: Kagiso Rabada, Lungi Ngidi, Imran Tahir
+Fall of wickets: 1-9 (Quinton de Kock (wk), 1.5 ov), 2-59 (Faf du Plessis (capt), 14.0 ov), 3-111 (Hashim Amla, 27.4 ov), 4-132 (Aiden Markram, 32.2 ov), 5-204 (David Miller, 44.4 ov), 6-214 (Andile Phehlukwayo, 46.2 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Matt Henry                            10.0   2         34        0         3.4       42        2         1         0         0         
+Trent Boult                           10.0   0         63        1         6.3       30        7         1         1         0         
+Lockie Ferguson                       10.0   0         59        3         5.9       32        6         1         3         0         
+Colin de Grandhomme                   10.0   0         33        1         3.3       36        1         0         0         0         
+Mitchell Santner                      8.5    0         41        1         4.64      22        1         1         0         0         
+
+New Zealand Innings(48.3)
+BATSMEN                                                                     R      B      M      4s     6s     SR     
+Martin Guptill                        hit wicket b Phehlukwayo              35     59     68     5      0      59.32  
+Colin Munro                           c & b Rabada                          9      5      12     2      0      180.0  
+Kane Williamson (capt)                not out                               106    138    0      9      1      76.81  
+Ross Taylor                           c †de Kock b Morris                   1      2      6      0      0      50.0   
+Tom Latham (wk)                       c †de Kock b Morris                   1      4      10     0      0      25.0   
+James Neesham                         c Amla b Morris                       23     34     60     3      0      67.65  
+Colin de Grandhomme                   c du Plessis b Ngidi                  60     47     70     5      2      127.66 
+Mitchell Santner                      not out                               2      3      0      0      0      66.67  
+Extras                                                                       8 (lb 1, w 6, nb 1)
+TOTAL                                                                        245/6 (48.3 Overs, RR: 5.05)
+Did not bat: Matt Henry, Lockie Ferguson, Trent Boult
+Fall of wickets: 1-12 (Colin Munro, 2.1 ov), 2-72 (Martin Guptill, 15.0 ov), 3-74 (Ross Taylor, 16.1 ov), 4-80 (Tom Latham (wk), 18.1 ov), 5-137 (James Neesham, 32.2 ov), 6-228 (Colin de Grandhomme, 47.1 ov)
+Bowling                               O      M         R         W         Econ      0s        4s        6s        WD        NB        
+Kagiso Rabada                         10.0   0         42        1         4.2       39        3         1         1         0         
+Lungi Ngidi                           10.0   1         47        1         4.7       35        6         0         2         0         
+Chris Morris                          10.0   0         49        3         4.9       34        6         0         0         0         
+Andile Phehlukwayo                    8.3    0         72        1         8.47      17        7         2         3         1         
+Imran Tahir                           10.0   0         33        0         3.3       34        2         0         0         0         
