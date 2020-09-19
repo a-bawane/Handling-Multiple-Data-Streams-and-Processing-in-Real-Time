@@ -6,7 +6,7 @@ Implemented a system to  generate real-time scorecard of all matches simultaneou
 
 Maintain the Directory Structure as followes:
 
-194161003
+194161003\n
 	commentaries
 		194161003-4143-commentary.txt
 			.
