@@ -32,7 +32,7 @@ and 3 Kafka Brokers (localhost:9092,localhost:9093,localhost:9094)
  
 2. Start all servers
 
-3. run 194161003_q2.py
+3. run main.py
 
 4. check all matches scorecards in scorecard folder
 
