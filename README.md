@@ -7,20 +7,19 @@ Implemented a system to  generate real-time scorecard of all matches simultaneou
 Maintain the Directory Structure as followes:
 
 194161003
-	commentaries
-		194161003-4143-commentary.txt
-			.
-			.
-			.
-		194161003-4192-commentary.txt
-	scorecards
-	194161003_q2.py
-	Producer.py
-	Consumer.py
-	Genarate_Scorecard.py
-	files.txt
-	teams.txt
-	README.txt
+  - commentaries
+    * 194161003-4143-commentary.txt
+			.  
+			.  
+			.  
+
+    * 194161003-4192-commentary.txt  
+  - scorecards  
+  - main.py  
+  - Producer.py  
+  - Consumer.py  
+  - Genarate_Scorecard.py   
+  - teams.txt  
   
 --------------------------------------------------------------------------------------------------------------------------------------------
 
