@@ -20,6 +20,7 @@ Maintain the Directory Structure as followes:
   - Consumer.py  
   - Genarate_Scorecard.py   
   - teams.txt  
+  - files.txt  
   
 --------------------------------------------------------------------------------------------------------------------------------------------
 
